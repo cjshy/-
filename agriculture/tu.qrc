@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tu/温湿度 (1).png</file>
+        <file>tu/感温探测器.png</file>
+        <file>tu/火灾自动报警系统.png</file>
+        <file>tu/排风机.png</file>
+        <file>tu/光照 (1).png</file>
+        <file>tu/光照 (2).png</file>
+        <file>tu/光照.png</file>
+        <file>tu/灯光全开.png</file>
+        <file>tu/关灯.png</file>
+        <file>tu/报警.png</file>
+        <file>tu/报警1.png</file>
+        <file>tu/开关按钮 (1).png</file>
+        <file>tu/开关按钮.png</file>
+        <file>tu/排风机-开.png</file>
+    </qresource>
+</RCC>
